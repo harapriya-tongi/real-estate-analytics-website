@@ -1,1 +1,2 @@
 # real-estate-analytics-website
+In this project, I aimed to develop a real estate analytics website to provide users with valuable insights into the real estate market. To achieve this, I collected data from "99acres," a popular real estate listing platform, using web scraping techniques. The primary focus of this project was to extract, clean, and analyze real estate data, perform exploratory data analysis (EDA), and visualize the findings, ultimately building an informative and user-friendly website.
